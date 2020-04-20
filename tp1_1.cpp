@@ -14,6 +14,6 @@ int main(){
     //d)
     cout<<&p<<'\n';
     //e)
-    cout<<sizeof(p)<<' '<<sizeof(a)<<'\n';    
+    cout<<sizeof(p)<<' '<<sizeof(a)<<'\n';
     return 0;
 }
